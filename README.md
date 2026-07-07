@@ -1,78 +1,181 @@
-# Gil Horne, JR
-ML/AI Engineer | Industrial AI & Robotics Systems Engineer
+# Gil Horne Jr.
 
-I design and build modular, data-driven intelligent systems with a foundation in Python, machine learning, and data science.  
-I approach projects with structured systems thinking, analytical rigor, and engineering discipline, with a long-term trajectory toward Industrial AI and Robotics.
+## Machine Learning Engineer | Artificial Intelligence Engineer | Industrial AI & Intelligent Systems
 
----
+I am an interdisciplinary engineer with a foundation in creative technology and a growing specialization in machine learning, artificial intelligence, intelligent systems, and industrial automation. My background combines design thinking, data-driven engineering, and systems architecture to develop technologies that are scalable, reliable, and centered on solving complex real-world problems.
 
-## Engineering Doctrine
-
-I engineer systems and solutions, not just scripts. My work is guided by the following principles:
-
-### Systems-Oriented Architecture
-- Define clear boundaries and responsibilities for all modules.  
-- Python orchestrates workflows; C++ is reserved for future performance-critical modules.  
-- Design for modularity, scalability, and maintainability.
-
-### Deterministic and Testable Workflows
-- ML pipelines, data transformations, and experimental workflows are predictable and reproducible.  
-- Critical processes are unit-testable, with controlled side effects.
-
-### Composition and Modularity
-- Favor small, focused modules and composition over inheritance.  
-- Avoid monolithic classes; design for extensibility.  
-- Each module has a single responsibility and clear interfaces.
-
-### Explicit Data and Resource Ownership
-- Avoid hidden state or uncontrolled side effects.  
-- Manage lifecycle and ownership of data explicitly.  
-- Ensure clarity in memory management and data flow.
-
-### Analytical and Metrics-Driven Approach
-- Decisions are guided by data, metrics, and system-level reasoning.  
-- Approach problems systematically, breaking complex systems into manageable components.  
-- Evaluate workflow efficiency, maintainability, and scalability.
-
-### Architecture-First Implementation
-- Define module responsibilities, data flows, and workflow diagrams before coding.  
-- Structure Python projects to be maintainable, readable, and future-proof.  
-- Integrate C++ modules for performance where appropriate.
+My work is driven by the belief that the future of engineering lies at the convergence of computational intelligence, automation, human-centered design, and cross-disciplinary innovation. I approach every challenge with a systems mindset, emphasizing analytical rigor, continuous learning, and long-term technological impact.
 
 ---
 
-## Current Focus Areas
+# Professional Profile
 
-- Python-based ML/AI pipelines and data processing systems  
-- Modular, reusable workflows for intelligent systems  
-- Analytical and experimental framework development  
-- Foundational simulation and autonomous system design
+I bring a multidisciplinary perspective that bridges engineering, data, software, and creative problem solving. My experience spans technical development, analytical research, digital product design, and software engineering, providing a unique ability to translate complex ideas into practical, scalable solutions.
 
----
-
-## Core Technical Stack
-
-**Programming Languages:** Python (primary), SQL, C++ (future-focused)  
-**Frameworks & Tools:** NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow basics, Jupyter/Colab, Git/GitHub  
-**Domains:** Machine Learning, Data Science, Intelligent Systems, Systematic Problem Solving, Workflow Design
+I am committed to developing technologies that improve decision-making, automate intelligent processes, and contribute to the advancement of industrial, scientific, and creative innovation.
 
 ---
 
-## Selected Projects
+# Core Disciplines
 
-*To be implemented — will showcase hybrid Python/C++ systems, modular ML pipelines, and simulation-oriented workflows.*
+## Machine Learning Engineering
+
+Designing, developing, and evaluating machine learning systems through structured data preparation, feature engineering, model development, performance evaluation, and continuous optimization. Experienced in supervised learning, model experimentation, data preprocessing, statistical analysis, and production-oriented machine learning workflows.
+
+**Areas of Focus**
+
+- Predictive Modeling
+- Classification & Regression
+- Feature Engineering
+- Model Evaluation
+- Data Preprocessing
+- Statistical Learning
+- Model Optimization
+- Experiment Management
 
 ---
 
-## Long-Term Vision
+## Artificial Intelligence
 
-Aspiring Industrial AI & Robotics Engineer  
-- Integrate intelligent systems, real-time data processing, and autonomous robotics in industrial environments.  
-- Develop hybrid Python/C++ systems for high-performance, modular, and scalable AI infrastructure.  
-- Translate analytical insights into robust, maintainable, and production-ready intelligent systems.
+Developing intelligent software systems that integrate data-driven reasoning, automation, and adaptive decision making. Focused on practical AI applications that improve operational efficiency, enhance user experiences, and support intelligent business processes.
+
+**Areas of Focus**
+
+- Intelligent Systems
+- AI Architecture
+- Decision Support Systems
+- Knowledge Representation
+- AI Integration
+- Automation Strategies
+- Applied AI Research
 
 ---
 
-### Personal Engineering Motto
+## Industrial Artificial Intelligence
 
-Analyze systematically. Design modularly. Implement with clarity and discipline.
+Applying machine learning and intelligent automation to industrial environments through data acquisition, process optimization, predictive analytics, and operational intelligence. Focused on scalable AI solutions that improve efficiency, monitoring, and decision support across industrial systems.
+
+**Areas of Focus**
+
+- Industrial Analytics
+- Process Intelligence
+- Predictive Analytics
+- Operational Optimization
+- Manufacturing Data
+- Intelligent Monitoring
+- Edge Intelligence
+
+---
+
+## Data Engineering & Analytics
+
+Building reliable data workflows that transform raw information into actionable insight. Experienced in database design, structured data management, ETL concepts, analytical reporting, and developing data foundations that support machine learning systems.
+
+**Areas of Focus**
+
+- SQL
+- Data Modeling
+- ETL Pipelines
+- Data Quality
+- Data Analysis
+- Database Design
+- Data Integration
+- Business Intelligence
+
+---
+
+## Software Engineering
+
+Developing maintainable software systems with an emphasis on modular architecture, clean code, scalability, and long-term maintainability. Focused on building applications that integrate seamlessly with modern AI and data ecosystems.
+
+**Areas of Focus**
+
+- Python Development
+- Object-Oriented Programming
+- API Development
+- Software Architecture
+- Version Control
+- Testing
+- Documentation
+- Agile Development
+
+---
+
+## Robotics & Intelligent Systems
+
+Studying the integration of intelligent software with physical systems through sensing, perception, decision making, and autonomous control. Focused on software that enables intelligent interaction between computational systems and the physical environment.
+
+**Areas of Focus**
+
+- Robotics Software
+- Sensor Integration
+- Computer Vision
+- Autonomous Systems
+- Embedded Intelligence
+- Edge Computing
+- Human–Machine Interaction
+
+---
+
+## Creative Technology
+
+A professional foundation in digital design, multimedia production, visual communication, and user-centered product development. This experience provides a unique perspective on usability, systems thinking, communication, and innovation within technical environments.
+
+**Areas of Focus**
+
+- Digital Product Development
+- User Experience
+- Visual Systems
+- Design Strategy
+- Creative Direction
+- Multimedia Technologies
+- Human-Centered Design
+
+---
+
+# Technical Competencies
+
+### Programming
+
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Machine Learning & Data
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Development
+
+- Git
+- GitHub
+- REST APIs
+- Linux
+
+### Engineering Practices
+
+- Data Modeling
+- Statistical Analysis
+- Software Design
+- Systems Thinking
+- Technical Documentation
+- Research Methodology
+- Analytical Problem Solving
+
+---
+
+# Professional Principles
+
+I value engineering disciplines that prioritize precision, scalability, continuous improvement, and measurable outcomes. My approach emphasizes thoughtful system design, rigorous analysis, collaborative problem solving, and technologies that deliver sustainable value across research, industry, and society.
+
+---
+
+# Professional Objective
+
+To contribute to organizations advancing artificial intelligence, machine learning, industrial automation, robotics, and intelligent software by combining analytical engineering, interdisciplinary thinking, and a commitment to building technologies that create lasting impact.
