@@ -1,6 +1,6 @@
 # Gil Horne Jr.
 
-## Machine Learning Engineer | Artificial Intelligence Engineer | Industrial AI & Intelligent Systems
+## Machine Learning Engineer | Industrial AI & Intelligent Systems
 
 I am an interdisciplinary engineer with a foundation in creative technology and a growing specialization in machine learning, artificial intelligence, intelligent systems, and industrial automation. My background combines design thinking, data-driven engineering, and systems architecture to develop technologies that are scalable, reliable, and centered on solving complex real-world problems.
 
